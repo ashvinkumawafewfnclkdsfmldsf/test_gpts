@@ -1,0 +1,49 @@
+{
+    "StageData": [
+      {
+        "name": "Stage-fqc",
+        "stage_num": 2,
+        "id": 2,
+        "dependency": [1],
+        "test_suite": [
+          {
+              
+          "name": "fqc",
+          "run_seq_num": 1,
+          "id": 1,
+          "dependency": [],
+          "scanning_serial_count": 1,
+          "image_required": 0,
+          "image_name": [],
+          "is_mac_required": 0,
+          "mac_count": 0,
+          "has_board_serial_no": 0,
+          "has_test_case": 1,
+          "suite_parent": 0,
+          "suite_type": "CHECKLIST",
+          "is_assembled": 0,
+          "device_status": 0,
+          "testCase": [         
+            {
+              "name": "fqc",
+              "time_out": 200,
+              "run_seq_num": 1,
+              "id": 1,
+              "priority": "",
+              "script_path": "",
+              "required": 1,
+              "exit_on_failure": 0,
+              "information_msg": "Kindly Confirm fqc done..?",
+              "confirmation_msg": "",
+              "image_required": 0,
+              "image_name": "",
+              "has_sub_test_cases": 0,
+              "dependent_testcase": []
+            } 
+            ]
+          }
+        ]
+      }
+    ]
+      
+  }

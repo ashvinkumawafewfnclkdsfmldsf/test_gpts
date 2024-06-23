@@ -1,0 +1,48 @@
+{
+  "StageData": [
+		{
+      "name": "Stage-Visual",
+      "stage_num": 1,
+      "id": 1,
+      "dependency": [
+      ],
+      "test_suite": [
+        {
+          "name": "Visual",
+          "run_seq_num": 1,
+          "id": 1,
+          "dependency": [],
+          "scanning_serial_count": 1,
+          "image_required": 0,
+          "image_name": [],
+          "is_mac_required": 0,
+          "mac_count": 0,
+          "has_board_serial_no": 0,
+          "has_test_case": 1,
+          "suite_parent": 0,
+          "suite_type": "CHECKLIST",
+          "is_assembled": 0,
+          "device_status": 0,
+          "testCase": [
+            {
+              "name": "Visual_test",
+              "run_seq_num": 1,
+              "id": 1,
+              "priority": "",
+              "script_path": "",
+              "time_out": 180,
+              "required": 1,
+              "exit_on_failure": 0,
+              "information_msg": "Kindly Confirm if Visual_test & Labelling Done ?",
+              "confirmation_msg": "",
+              "image_required": 0,
+              "image_name": "",
+              "has_sub_test_cases": 0,
+              "dependent_testcase": []
+            }
+          ]
+        }
+      ]
+    }
+   ]
+}
