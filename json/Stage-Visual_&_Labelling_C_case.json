@@ -1,14 +1,14 @@
 {
-    "StageData": [
-      {
-        "name": "Stage-fqc",
-        "stage_num": 14,
-        "id": 14,
-        "dependency": [13],
-        "test_suite": [
-          {
-              
-          "name": "fqc",
+  "StageData": [
+		{
+      "name": "Stage-Visual_&_Labelling_C_case",
+      "stage_num": 1,
+      "id": 1,
+      "dependency": [
+      ],
+      "test_suite": [
+        {
+          "name": "Visual_&_Labelling_C_case",
           "run_seq_num": 1,
           "id": 1,
           "dependency": [],
@@ -23,27 +23,26 @@
           "suite_type": "CHECKLIST",
           "is_assembled": 0,
           "device_status": 0,
-          "testCase": [         
+          "testCase": [
             {
-              "name": "fqc",
-              "time_out": 200,
+              "name": "Visual_test",
               "run_seq_num": 1,
               "id": 1,
               "priority": "",
               "script_path": "",
+              "time_out": 180,
               "required": 1,
               "exit_on_failure": 0,
-              "information_msg": "Kindly Confirm fqc done..?",
+              "information_msg": "Kindly Confirm if Visual_test & Labelling Done ?",
               "confirmation_msg": "",
               "image_required": 0,
               "image_name": "",
               "has_sub_test_cases": 0,
               "dependent_testcase": []
-            } 
-            ]
-          }
-        ]
-      }
-    ]
-      
-  }
+            }
+          ]
+        }
+      ]
+    }
+   ]
+}

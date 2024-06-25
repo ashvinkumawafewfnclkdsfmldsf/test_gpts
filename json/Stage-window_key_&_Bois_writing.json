@@ -1,22 +1,22 @@
 {
     "StageData": [
       {
-        "name": "Stage-fqc",
-        "stage_num": 14,
-        "id": 14,
-        "dependency": [13],
+        "name": "Stage-window_key_&_Bois_writing",
+        "stage_num": 10,
+        "id": 10,
+        "dependency": [9],
         "test_suite": [
           {
               
-          "name": "fqc",
+          "name": "window_key_&_Bois_writing",
           "run_seq_num": 1,
           "id": 1,
           "dependency": [],
           "scanning_serial_count": 1,
           "image_required": 0,
           "image_name": [],
-          "is_mac_required": 0,
-          "mac_count": 0,
+          "is_mac_required": 1,
+          "mac_count": 1,
           "has_board_serial_no": 0,
           "has_test_case": 1,
           "suite_parent": 0,
@@ -25,7 +25,7 @@
           "device_status": 0,
           "testCase": [         
             {
-              "name": "fqc",
+              "name": "window_key_&_Bois_writing",
               "time_out": 200,
               "run_seq_num": 1,
               "id": 1,
@@ -33,7 +33,7 @@
               "script_path": "",
               "required": 1,
               "exit_on_failure": 0,
-              "information_msg": "Kindly Confirm fqc done..?",
+              "information_msg": "Kindly Confirm window_key_&_Bois_writing done..?",
               "confirmation_msg": "",
               "image_required": 0,
               "image_name": "",

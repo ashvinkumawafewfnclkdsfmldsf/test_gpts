@@ -1,14 +1,14 @@
 {
     "StageData": [
       {
-        "name": "Stage-fqc",
-        "stage_num": 14,
-        "id": 14,
-        "dependency": [13],
+        "name": "Stage-VI_2",
+        "stage_num": 6,
+        "id": 6,
+        "dependency": [5],
         "test_suite": [
           {
               
-          "name": "fqc",
+          "name": "VI_2",
           "run_seq_num": 1,
           "id": 1,
           "dependency": [],
@@ -25,7 +25,7 @@
           "device_status": 0,
           "testCase": [         
             {
-              "name": "fqc",
+              "name": "VI_2",
               "time_out": 200,
               "run_seq_num": 1,
               "id": 1,
@@ -33,7 +33,7 @@
               "script_path": "",
               "required": 1,
               "exit_on_failure": 0,
-              "information_msg": "Kindly Confirm fqc done..?",
+              "information_msg": "Kindly Confirm VI_2 done..?",
               "confirmation_msg": "",
               "image_required": 0,
               "image_name": "",

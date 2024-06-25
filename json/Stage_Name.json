@@ -1,6 +1,20 @@
 {
     "StageData":[
-      {"name": "Stage-Visual"},
+      {"name": "Stage-Visual_&_Labelling_C_case"},
+      {"name": "Stage-mainboard_assy_c_case"},
+      {"name": "Stage-VI"},
+      {"name": "Stage-Vi_AB_case"}, 
+      {"name": "Stage-AB_case_assy"},
+      {"name": "Stage-VI_2"},
+      {"name": "Stage-Pre_box_testing"},
+      {"name": "Stage-Burnin_Test"},
+      {"name": "Stage-Post_box_testing"},
+      {"name": "Stage-window_key_&_Bois_writing"},
+      {"name": "Stage-reset_windows"},
+      {"name": "Stage-OS_Changes"},
+      {"name": "Stage-Label_print"},
       {"name": "Stage-fqc"}
+
+      
     ]
 }

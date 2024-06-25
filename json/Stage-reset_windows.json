@@ -1,14 +1,14 @@
 {
     "StageData": [
       {
-        "name": "Stage-fqc",
-        "stage_num": 14,
-        "id": 14,
-        "dependency": [13],
+        "name": "Stage-reset_windows",
+        "stage_num": 11,
+        "id": 11,
+        "dependency": [10],
         "test_suite": [
           {
               
-          "name": "fqc",
+          "name": "reset_windows",
           "run_seq_num": 1,
           "id": 1,
           "dependency": [],
@@ -25,7 +25,7 @@
           "device_status": 0,
           "testCase": [         
             {
-              "name": "fqc",
+              "name": "reset_windows",
               "time_out": 200,
               "run_seq_num": 1,
               "id": 1,
@@ -33,7 +33,7 @@
               "script_path": "",
               "required": 1,
               "exit_on_failure": 0,
-              "information_msg": "Kindly Confirm fqc done..?",
+              "information_msg": "Kindly Confirm reset_windows done..?",
               "confirmation_msg": "",
               "image_required": 0,
               "image_name": "",
