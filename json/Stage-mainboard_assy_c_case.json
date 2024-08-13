@@ -12,7 +12,7 @@
           "run_seq_num": 1,
           "id": 1,
           "dependency": [],
-          "scanning_serial_count": 2,
+          "scanning_serial_count": 1,
           "image_required": 0,
           "image_name": [],
           "is_mac_required": 0,
@@ -20,7 +20,7 @@
           "has_board_serial_no": 1,
           "has_test_case": 1,
           "suite_parent": 0,
-          "suite_type": "CHECKLIST",
+          "suite_type": "TESTCASE",
           "is_assembled": 0,
           "device_status": 0,
           "testCase": [         
