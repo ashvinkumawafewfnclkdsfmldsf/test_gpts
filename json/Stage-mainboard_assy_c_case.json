@@ -30,7 +30,7 @@
               "run_seq_num": 1,
               "id": 1,
               "priority": "",
-              "script_path": "Laptop_testing/",
+              "script_path": "Laptop_testing/burin_exe.py",
               "required": 1,
               "exit_on_failure": 0,
               "information_msg": "",
