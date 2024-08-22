@@ -20,7 +20,7 @@
           "has_board_serial_no": 1,
           "has_test_case": 1,
           "suite_parent": 0,
-          "suite_type": "TESTCASE",
+          "suite_type": "TEST_CASE",
           "is_assembled": 0,
           "device_status": 0,
           "testCase": [         
